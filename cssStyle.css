@@ -1,0 +1,146 @@
+.firstpart{
+    background-color: rgb(1, 1, 56);
+    width: auto;
+    height: 50px;
+    display: flex;
+    margin-top: -10px;
+    padding-bottom: 20px;
+    /* align-content: center; */
+}
+header{
+    display: flex;
+    /* flex-direction: row; */
+    align-content: space-between;
+    align-content: center;
+}
+.topnav{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.topR{
+    justify-content: center;
+    text-align: right;
+    margin-left: 150px;
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.topR2{
+ text-align: right;
+margin-left: 120px;
+color: whitesmoke;
+font-size: 14px;
+font-weight: lighter;
+}
+.topL{
+    margin-left: 380px;
+    color: whitesmoke;
+font-size: 14px;
+font-weight: lighter;
+}
+.topL2{
+    margin-left: 50px;
+    color: whitesmoke;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-bottom: 40px;
+
+}
+
+.secondpart{
+  display: flex;
+  float: center;
+  justify-content: space-between;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.055);
+  width: auto;
+  height: 90px;
+
+}
+.CompName{
+margin-left: 20px;
+color: rgba(0, 0, 0, 0.774);
+font-size: 24px;
+margin-top: 10px;
+}
+
+h3{
+    padding: 15px;
+}
+
+.call{
+    margin-left: 200px;
+    justify-content: center;
+    padding-top: 20px;
+    border-right: 1px solid black;
+    font-size: 16px;
+
+}
+
+.Office{
+    margin-left: 40px;
+    justify-content: center;
+    padding-top: 20px;
+    border-right: 1px solid black;
+    font-size: 16px;
+}
+
+.Time{
+    margin-left: 40px;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+.thirdpart{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center !important;
+    height: 18px;
+    align-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;    
+}
+
+.fourthpart{
+    display: flex;
+    height: 540px;
+    width: auto;
+    justify-content: center;
+    /* background-color: black; */
+    margin-top: -30px;
+    
+}
+
+img{
+    height: 520px;
+    width: 1366px !important;
+    align-content: center;
+    margin-top: 22px !important;
+}
+
+.nav-link{
+    color: whitesmoke !important;
+    font-size: 14px !important;
+    font-weight: lighter !important;
+    justify-content: center;
+}
+
+/* .navbar{
+    height: 50px;
+    justify-content: center;
+} */
+
+.inlinetext{
+    margin-bottom: 10px !important;
+}
+.subtext{
+    margin-bottom: 5px !important;
+    text-align: center;
+}
